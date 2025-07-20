@@ -14,19 +14,17 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-## ⚡️ Stats
+##
 
 <br>
-<div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DataBook4U&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DataBook4U's Most Used Languages" />
-</div>
+
 <div align=center>
  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DataBook4U&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DataBook4U's" />
 </div>
 
 <hr>
 
-## 🛠️ Languages and Tools
+##
 
 <br>
 
@@ -53,7 +51,10 @@ Here are some ideas to get you started:
 
 To show GitHub stats
  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DataBook4U&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DataBook4U's GitHub Stats" />
-  
 
+To show most used languages
+<div align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DataBook4U&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DataBook4U's Most Used Languages" />
+</div>
 
 -->
