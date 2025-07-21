@@ -18,9 +18,7 @@
 
 <br>
 
-<div align=center>
- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DataBook4U&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DataBook4U's" />
-</div>
+
 
 <hr>
 
