@@ -19,10 +19,10 @@
 <br>
 
 <div align=center>
-   <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=DataBook4U&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DataBook4U's" />
+   <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianOpocensky&theme=transparent&count_private=true&border_radius=10&locale=en" alt="SebastianOpocensky's" />
 </div>
 <div align=center>
-  <img width=420 src="https://github-readme-stats.vercel.app/api/top-langs?username=DataBook4U&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DataBook4U's Most Used Languages" />
+  <img width=420 src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianOpocensky&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="SebastianOpocensky's Most Used Languages" />
 </div>
 
 <hr>
