@@ -39,7 +39,7 @@
 <hr>
 
 <!--
-**DataBook4U/DataBook4U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SebastianOpocensky/SebastianOpocensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
